@@ -36,7 +36,7 @@ import {
     yummy,
     start,
     bookmark
-  } from "../assets/assets";
+  } from "../assets";
   
   export const navLinks = [
     {
